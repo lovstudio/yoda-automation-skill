@@ -1,4 +1,4 @@
-# Skill Card — lov-yoda-automation
+# Yoda 自动化 · Yoda Automation · Skill Card
 
 ## Description
 
@@ -42,7 +42,7 @@ Yoda 自动化记录与 JSON 核验结果，包含计划、时区、下次运行
 
 ## Skill Version
 
-0.1.0
+0.2.1
 
 ## Ethical Considerations
 
